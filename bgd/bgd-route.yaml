@@ -7,7 +7,7 @@ metadata:
   name: bgd
   namespace: bgd
 spec:
-  host: "bgd.apps.c106-e.us-south.containers.cloud.ibm.com"
+  host: "bgd.c106-e.us-south.containers.cloud.ibm.com"
   port:
     targetPort: 8080
   to:
